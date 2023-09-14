@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://groovehub.carlosaraiza.me'),
 
     'asset_url' => env('ASSET_URL'),
 
@@ -122,7 +122,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY','1qkdy2azmnay68uxksug1cajm8ydrt1o'),
 
     'cipher' => 'AES-256-CBC',
 
